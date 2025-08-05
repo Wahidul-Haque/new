@@ -121,7 +121,7 @@ function RandomWordSwitcher() {
   useEffect(() => {
     const interval = setInterval(() => {
       setWord(words[Math.floor(Math.random() * words.length)]);
-    }, 1500); // Change word every 1.5 seconds
+    }, 1000); // Change word every 1.5 seconds
     return () => clearInterval(interval);
   }, []);
 
@@ -951,8 +951,7 @@ const Index = () => {
             <div>
               <h3 className="text-white font-semibold mb-4">About Our Company</h3>
               <p className="text-gray-400 leading-5 text-sm">
-                We are providing quality services to our esteemed customers since 2005. Customers include Home Users,
-                SME, Multinational Brands, Financial Institutions, Hotels, Universities, Hospitals, etc.
+               Since 2005, we have been dedicated to delivering high-quality services to our valued customers, earning their trust through consistency, reliability, and a strong commitment to excellence. Over the years, we have built lasting relationships with a diverse range of clients, including home users, small and medium enterprises (SMEs), multinational brands, financial institutions, hotels, universities, hospitals, and many others. Our ability to adapt to the unique needs of each customer segment, combined with our focus on innovation and customer satisfaction, has allowed us to grow steadily and maintain a strong reputation in the industry. Whether it's a household seeking dependable solutions or a large corporation requiring tailored support, we strive to exceed expectations and ensure long-term satisfaction for every client we serve.
               </p>
             </div>
 

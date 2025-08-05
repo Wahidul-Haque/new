@@ -754,60 +754,60 @@ const Index = () => {
               {/* First set of testimonials */}
               {[
                 {
-                  name: "USTM",
+                  name: "..",
                   content:
                     "SoftCrop Solutions transformed our entire IT infrastructure. Their expertise and support have been invaluable to our growth.",
                   rating: 5,
                 },
                 {
-                  name: "GNRC",
+                  name: "..",
                   content:
                     "Outstanding service and competitive pricing. They delivered exactly what they promised and exceeded our expectations.",
                   rating: 5,
                 },
                 {
-                  name: "DY365",
+                  name: "..",
                   content:
                     "The 24/7 support and proactive monitoring have given us peace of mind. Highly recommend their services.",
                   rating: 5,
                 },
                 {
-                  name: "KFC",
+                  name: "..",
                   content:
                     "Their cloud infrastructure solutions scaled perfectly with our rapid growth. Exceptional technical expertise.",
                   rating: 5,
                 },
                 {
-                  name: "DPS",
+                  name: "..",
                   content:
                     "Security was our top priority and SoftCrop delivered beyond expectations. Professional and reliable.",
                   rating: 5,
                 },
                 {
-                  name: "PRATIDIN TIMES",
+                  name: "..",
                   content:
                     "The migration to their network infrastructure was seamless. Zero downtime and improved performance.",
                   rating: 5,
                 },
                 {
-                  name: "PVR CINEMA",
+                  name: "..",
                   content:
                     "Cost-effective solutions without compromising quality. Their support team is always responsive.",
                   rating: 5,
                 },
                 {
-                  name: "APPLE",
+                  name: "..",
                   content:
                     "Innovative approach to our complex requirements. They understand enterprise-level challenges.",
                   rating: 5,
                 },
                 {
-                  name: "SAMSUNG",
+                  name: "..",
                   content: "Partnership that goes beyond service delivery. They're invested in our long-term success.",
                   rating: 5,
                 },
                 {
-                  name: "BLINKIT",
+                  name: "..",
                   content:
                     "Transparent pricing and clear communication throughout. Highly recommend for any business size.",
                   rating: 5,
